@@ -1,2 +1,1 @@
-# envato.svarun.dev
-Custom ENVATO CDN Service
+# Personal CDN Service For ENVATO
